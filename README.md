@@ -1,7 +1,7 @@
 My first Atm that's not in a console form but has sprites too and is visually appealing. 
 <br>
 
-1. Save account name and Pin manually in Accounts.txt file(no empty/space line). 
+1. Save account name and Pin manually in Accounts.txt file(no empty/space line).
 <br>
 2. Run the program in any IDE. 
 <br>
