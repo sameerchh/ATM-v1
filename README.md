@@ -1,15 +1,16 @@
 My first Atm that's not in a console form but has sprites too and is visually appealing. 
 <br>
-Save account name and Pin manually in Accounts.txt file(no empty/space line). 
 <br>
-Run the program in any IDE. 
+1. Save account name and Pin manually in Accounts.txt file(no empty/space line). 
 <br>
-Enter saved name and PIN. You'll be redirected to your account if Username and Pin are correct.
+2. Run the program in any IDE. 
 <br>
-Select the desired option. 
+3. Enter saved name and PIN. You'll be redirected to your account if Username and Pin are correct.
 <br>
-Perform transaction and check the balance to make sure it worked.
+4. Select the desired option. 
 <br>
-Click return after every transaction to make the next one.
+5. Perform transaction and check the balance to make sure it worked.
 <br>
-Exit the program by clicking exit option.
+6. Click return after every transaction to make the next one.
+<br>
+7. Exit the program by clicking exit option.
